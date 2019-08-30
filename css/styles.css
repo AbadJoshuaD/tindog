@@ -1,0 +1,72 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box
+}
+#title{
+    background-image: linear-gradient(to left bottom, #8bcbff, #7cc4ff, #6dbdff, #5db5ff, #4caeff);
+}
+.greetings{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 3.5rem;
+    line-height:1.5;
+    color:white;
+    font-weight:bold;
+}
+
+.container-fluid{
+    padding:3% 15%;
+}
+.navbar{
+    padding: 0 0 4.5rem;
+    margin:0;
+}
+.navbar-brand{
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2rem;
+    line-height:1.5;
+    margin:0;
+    font-weight:bold;
+}
+.nav-link{
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1rem;
+    line-height:1.5;
+    font-weight:bold;
+}
+
+.dl-button{
+    margin:5% 3% 5% 0%;
+    padding: 5px 5px 5px 0px;
+}
+.apple{
+    padding:0.4rem;
+}
+
+.google{
+    padding:0.4rem;
+}
+.rotate-phone{
+    transform: rotate(20deg);
+}
+
+.fa-features{
+    color: #4caeff;
+    font-size:4rem !important;
+    margin-bottom: 1rem;
+}
+.fa-features:hover{
+    color: #8bcbff;
+}
+.feature{
+    font-family: 'Montserrat', sans-serif;
+    line-height:1.5;
+    text-align: center;
+    
+}
+h3{
+    font-weight: bold !important;
+}
+
