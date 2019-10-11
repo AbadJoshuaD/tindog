@@ -8,4 +8,4 @@ Things that I have learned and apply during the project.
   - CSS Selectors
   - Transform
 * **Basic Responsive Design Bootstrap**
- - col xs sm md lg with 12 units partio
+  - col xs sm md lg with 12 units partio
